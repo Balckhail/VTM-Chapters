@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = '<p>React app running! Replace with real build output.</p>';
